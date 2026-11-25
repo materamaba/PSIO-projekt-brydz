@@ -8,4 +8,4 @@
 
 ##  Mniejszy priorytet
 - Utworzenie klasy InterfejsUzytkownika i GenerowanieProtokolu.
-- Przeprowadzeni ewaluacji dokładność rozpoznawania kart.
+- Przeprowadzenie ewaluacji dokładność rozpoznawania kart.
