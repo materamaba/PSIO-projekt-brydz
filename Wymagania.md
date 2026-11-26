@@ -1,7 +1,7 @@
 # Wymagania projektu
 - Aplikacja będzie zapisywać protokół rozgrywki w pliku JSON.
 - Kod będzie pisany w języku Python
-- Rozpoznawanie kart będzie opierać sie podstawowych algorytmach przetwarzania obrazu.
+- Rozpoznawanie kart będzie opierać sie na podstawowych algorytmach przetwarzania obrazu.
 - Aplikacja będzie wyświetlała na żywo obraz z kamerki. Przy każdym graczu będzie pokazany kolor drużyny do jakiej nalezy.
 # Wymagania aplikacji
 ## SilnikBrydzowy
